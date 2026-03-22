@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Exclude unrelated Android Studio projects
+/Activity_4
+/Whatsapp
+/whatsapp2
